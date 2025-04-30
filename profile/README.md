@@ -1,6 +1,6 @@
 # 🌟 DALTON LIFE 🌟
 
-![Dalton Life Logo](https://i.ibb.co/6J8Gvw9L/Mesa-de-trabajo-1.png)
+![Dalton Life Logo](https://i.ibb.co/rKw8HP7t/Mesa-de-trabajo-1.png)
 
 Somos un equipo apasionado dedicado a brindarte la mejor experiencia de roleplay en FiveM. Nuestro objetivo es ofrecer un servidor optimizado, innovador y diferente a todos los demás.
 
