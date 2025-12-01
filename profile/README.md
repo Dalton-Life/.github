@@ -19,6 +19,15 @@ Detrás de Dalton Life hay un grupo de personas apasionadas por crear la mejor e
 - **Soporte dedicado**: Nuestro equipo está disponible para ayudarte en todo momento.
 ---
 
+## Equipo de desarrollo actualmente
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/818diego"><img src="https://github.com/818diego.png" width="100px;" alt=""/><br /><sub><b>818Diego</b></sub></a></td>
+    <td align="center"><a href="https://github.com/GerardoMal"><img src="https://github.com/GerardoMal.png" width="100px;" alt=""/><br /><sub><b>GerardoMal</b></sub></a></td>
+  </tr>
+</table>
+
 <div align="center">
   <h3>Dalton Life</h3>
   <p>© 2025 Dalton Life - Todos los derechos reservados</p>
