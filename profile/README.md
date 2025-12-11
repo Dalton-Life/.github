@@ -25,6 +25,7 @@ Detrás de Dalton Life hay un grupo de personas apasionadas por crear la mejor e
   <tr>
     <td align="center"><a href="https://github.com/818diego"><img src="https://github.com/818diego.png" width="100px;" alt=""/><br /><sub><b>818Diego</b></sub></a></td>
     <td align="center"><a href="https://github.com/GerardoMal"><img src="https://github.com/GerardoMal.png" width="100px;" alt=""/><br /><sub><b>GerardoMal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/zMiisterDev"><img src="https://github.com/zMiisterDev.png" width="100px;" alt=""/><br /><sub><b>zMiisterDev</b></sub></a></td>
   </tr>
 </table>
 
