@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/rKw8HP7t/Mesa-de-trabajo-1.png" alt="Dalton Life Logo" width="280">
-</p>
-
 <h1 align="center">Dalton Life — FiveM Development</h1>
 
 <p align="center">
